@@ -49,9 +49,6 @@ class View(object):
 ```
 ```python
         self._state = State(state={
-            'channel': LabeledValue(color=BLACK, label='CH', value='00', position=self._layout['channel'],
-                                    label_font=fonts.Bold,
-                                    text_font=fonts.Medium),
 ```
 ```python
             'face': Text(value=faces.SLEEP, position=self._layout['face'], color=BLACK, font=fonts.Huge),
