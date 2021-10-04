@@ -1,4 +1,4 @@
-# <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/sideeye.gif?raw=true" height="48"> pwnagotchi e-girl
+# <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/assets/sideeye.gif?raw=true" height="48"> pwnagotchi e-girl
 
 ### Background
 
@@ -76,30 +76,17 @@ class View(object):
 The aim of this project is to replace the text pwnagotchi face with bitmap faces in the absence of an update that does same. The faces used are all custom drawn by me and fit within a 64x64px square. Some examples are shown below.
 
 
-Emotion | Original      | Replacement |
-| :---: | :----:      |    :----:   |
-| LOOK_R | `( ⚆_⚆)` | ![Look_R](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/LOOK-R.png?raw=true) |
-| LOOK_L | `(☉_☉ )` | ![Look_L](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/LOOK-L.png?raw=true) |
-| LOOK_R_HAPPY | `( ◕‿◕)` |  |
-| LOOK_L_HAPPY | `(◕‿◕ )` |  |
-| SLEEP | `(⇀‿‿↼)` |  |
-| SLEEP2 | `(≖‿‿≖)` |  |
-| AWAKE | `(◕‿‿◕)` |  |
-| BORED | `(-__-)` |  |
-| INTENSE | `(°▃▃°)` |  |
-| COOL | `(⌐■_■)` | ![Cool](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/COOL.png?raw=true) |
-| HAPPY | `(•‿‿•)` |  |
-| GRATEFUL | `(^‿‿^)` |  |
-| EXCITED | `(ᵔ◡◡ᵔ)` |  |
-| MOTIVATED | `(☼‿‿☼)` |  |
-| DEMOTIVATED | `(≖__≖)` |  |
-| SMART | `(✜‿‿✜)` | ![Smart](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SMART.png?raw=true) |
-| LONELY | `(ب__ب)` |  |
-| SAD | `(╥☁╥ )` |  |
-| ANGRY = | `(-_-')` | |
-| FRIEND | `(♥‿‿♥)` | ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true) |
-| BROKEN | `(☓‿‿☓)` |  |
-| DEBUG | `(#__#)` |  |
-| UPLOAD | `(1__0)` | ![Look_R](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/UPLOAD.png?raw=true) |
-| UPLOAD1 | `(1__1)` | ![Look_R](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/UPLOAD1.png?raw=true) |
-| UPLOAD2 | `(0__1)` | ![Look_R](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/UPLOAD2.png?raw=true) |
+| Emotion | Original      | Replacement | | Emotion (cont'd) | Original | Replacement |
+| :---: | :----:      |    :----:   | :---: |    :----:   |    :----:   |    :----:   |
+| LOOK_R | `( ⚆_⚆)` | ![Look_R](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/LOOK-R.png?raw=true) | | GRATEFUL | `(^‿‿^)` |  |
+| LOOK_L | `(☉_☉ )` | ![Look_L](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/LOOK-L.png?raw=true) | | EXCITED | `(ᵔ◡◡ᵔ)` |  |
+| LOOK_R_HAPPY | `( ◕‿◕)` |  | | MOTIVATED | `(☼‿‿☼)` |  
+| LOOK_L_HAPPY | `(◕‿◕ )` |  | | DEMOTIVATED | `(≖__≖)` |  
+| SLEEP | `(⇀‿‿↼)` |  | | SMART | `(✜‿‿✜)` | ![Smart](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SMART.png?raw=true) 
+| SLEEP2 | `(≖‿‿≖)` |  | | LONELY | `(ب__ب)` |  
+| AWAKE | `(◕‿‿◕)` |  | | SAD | `(╥☁╥ )` |  
+| BORED | `(-__-)` |  | | ANGRY | `(-_-')` | 
+| INTENSE | `(°▃▃°)` |  | | FRIEND | `(♥‿‿♥)` | ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true) 
+| COOL | `(⌐■_■)` | ![Cool](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/COOL.png?raw=true) | | BROKEN | `(☓‿‿☓)` |  
+| HAPPY | `(•‿‿•)` |  | | DEBUG | `(#__#)` |  
+| UPLOAD [ /1/2] | <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/assets/upload-old.gif" width="60"> | <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/assets/upload-new.gif" height="64"> | | | | |
