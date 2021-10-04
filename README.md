@@ -80,13 +80,13 @@ The aim of this project is to replace the text pwnagotchi face with bitmap faces
 | :---: | :----:      |    :----:   | :---: |    :----:   |    :----:   |    :----:   |
 | LOOK_R | `( ⚆_⚆)` | ![Look_R](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/LOOK-R.png?raw=true) | | GRATEFUL | `(^‿‿^)` |  |
 | LOOK_L | `(☉_☉ )` | ![Look_L](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/LOOK-L.png?raw=true) | | EXCITED | `(ᵔ◡◡ᵔ)` |  |
-| LOOK_R_HAPPY | `( ◕‿◕)` |  | | MOTIVATED | `(☼‿‿☼)` |  
-| LOOK_L_HAPPY | `(◕‿◕ )` |  | | DEMOTIVATED | `(≖__≖)` |  
-| SLEEP | `(⇀‿‿↼)` |  | | SMART | `(✜‿‿✜)` | ![Smart](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SMART.png?raw=true) 
-| SLEEP2 | `(≖‿‿≖)` |  | | LONELY | `(ب__ب)` |  
-| AWAKE | `(◕‿‿◕)` |  | | SAD | `(╥☁╥ )` |  
-| BORED | `(-__-)` |  | | ANGRY | `(-_-')` | 
-| INTENSE | `(°▃▃°)` |  | | FRIEND | `(♥‿‿♥)` | ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true) 
-| COOL | `(⌐■_■)` | ![Cool](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/COOL.png?raw=true) | | BROKEN | `(☓‿‿☓)` |  
+| LOOK_R_HAPPY | `( ◕‿◕)` |  | | MOTIVATED | `(☼‿‿☼)` |  |
+| LOOK_L_HAPPY | `(◕‿◕ )` |  | | DEMOTIVATED | `(≖__≖)` |  |
+| SLEEP | `(⇀‿‿↼)` | ![Sleep](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SLEEP.png?raw=true) | | SMART | `(✜‿‿✜)` | ![Smart](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SMART.png?raw=true) |
+| SLEEP2 | `(≖‿‿≖)` | ![Sleep2](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SLEEP2.png?raw=true) | | LONELY | `(ب__ب)` |  |
+| AWAKE | `(◕‿‿◕)` |  | | SAD | `(╥☁╥ )` |  ![Sad](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SAD.png?raw=true) |
+| BORED | `(-__-)` |  | | ANGRY | `(-_-')` | |
+| INTENSE | `(°▃▃°)` |  | | FRIEND | `(♥‿‿♥)` | ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true) |
+| COOL | `(⌐■_■)` | ![Cool](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/COOL.png?raw=true) | | BROKEN | `(☓‿‿☓)` |  |
 | HAPPY | `(•‿‿•)` |  | | DEBUG | `(#__#)` |  
 | UPLOAD [ /1/2] | <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/assets/upload-old.gif" width="60"> | <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/assets/upload-new.gif" height="64"> | | | | |
