@@ -78,8 +78,8 @@ The aim of this project is to replace the text pwnagotchi face with bitmap faces
 
 Emotion | Original      | Replacement |
 | :---: | :----:      |    :----:   |
-| LOOK_R | `( ⚆_⚆)` |  |
-| LOOK_L | `(☉_☉ )` |  |
+| LOOK_R | `( ⚆_⚆)` | ![Look_R](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/LOOK-R.png?raw=true) |
+| LOOK_L | `(☉_☉ )` | ![Look_L](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/LOOK-L.png?raw=true) |
 | LOOK_R_HAPPY | `( ◕‿◕)` |  |
 | LOOK_L_HAPPY | `(◕‿◕ )` |  |
 | SLEEP | `(⇀‿‿↼)` |  |
@@ -87,19 +87,19 @@ Emotion | Original      | Replacement |
 | AWAKE | `(◕‿‿◕)` |  |
 | BORED | `(-__-)` |  |
 | INTENSE | `(°▃▃°)` |  |
-| COOL | `(⌐■_■)` |  |
+| COOL | `(⌐■_■)` | ![Cool](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/COOL.png?raw=true) |
 | HAPPY | `(•‿‿•)` |  |
 | GRATEFUL | `(^‿‿^)` |  |
 | EXCITED | `(ᵔ◡◡ᵔ)` |  |
 | MOTIVATED | `(☼‿‿☼)` |  |
 | DEMOTIVATED | `(≖__≖)` |  |
-| SMART | `(✜‿‿✜)` |  |
+| SMART | `(✜‿‿✜)` | ![Smart](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SMART.png?raw=true) |
 | LONELY | `(ب__ب)` |  |
 | SAD | `(╥☁╥ )` |  |
 | ANGRY = | `(-_-')` | |
-| FRIEND | `(♥‿‿♥)` |  |
+| FRIEND | `(♥‿‿♥)` | ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true) |
 | BROKEN | `(☓‿‿☓)` |  |
 | DEBUG | `(#__#)` |  |
-| UPLOAD | `(1__0)` |  |
-| UPLOAD1 | `(1__1)` |  |
-| UPLOAD2 | `(0__1)` |  |
+| UPLOAD | `(1__0)` | ![Look_R](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/UPLOAD.png?raw=true) |
+| UPLOAD1 | `(1__1)` | ![Look_R](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/UPLOAD1.png?raw=true) |
+| UPLOAD2 | `(0__1)` | ![Look_R](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/UPLOAD2.png?raw=true) |
