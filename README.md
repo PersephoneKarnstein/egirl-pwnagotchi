@@ -84,6 +84,6 @@ The aim of this project is to replace the text pwnagotchi face with bitmap faces
 | AWAKE | `(◕‿‿◕)` |  | | SAD <!-- on_miss --> | `(╥☁╥ )` |  ![Sad](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SAD.png?raw=true) |
 | BORED | `(-__-)` |  | | ANGRY | `(-_-')` | |
 | INTENSE <!-- on_assoc --> | `(°▃▃°)` |  | | FRIEND | `(♥‿‿♥)` | ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true) |
-| COOL <!-- on_deauth --> | `(⌐■_■)` | ![Cool](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/COOL.png?raw=true) | | BROKEN <!-- on_reboot --> | `(☓‿‿☓)` |  |
-| HAPPY <!-- new handshakes --> | `(•‿‿•)` |  | | DEBUG <!-- on_custom --> | `(#__#)` |  
+| COOL <!-- on_deauth --> | `(⌐■_■)` | ![Cool](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/COOL.png?raw=true) | | BROKEN <!-- on_reboot --> | `(☓‿‿☓)` | ![Broken](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/BROKEN.png?raw=true)  |
+| HAPPY <!-- new handshakes --> | `(•‿‿•)` |  | | DEBUG <!-- on_custom --> | `(#__#)` |  ![Debug](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/DEBUG.png?raw=true) 
 | UPLOAD [ /1/2] | <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/assets/upload-old.gif" width="60"> | <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/assets/upload-new.gif" height="64"> | | | | |
