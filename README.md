@@ -83,7 +83,7 @@ The aim of this project is to replace the text pwnagotchi face with bitmap faces
 | SLEEP2 <!-- short sleep --> | `(≖‿‿≖)` | ![Sleep2](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SLEEP2.png?raw=true) | | LONELY | `(ب__ب)` |  |
 | AWAKE | `(◕‿‿◕)` |  | | SAD <!-- on_miss --> | `(╥☁╥ )` |  ![Sad](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/SAD.png?raw=true) |
 | BORED | `(-__-)` |  | | ANGRY | `(-_-')` | |
-| INTENSE <!-- on_assoc --> | `(°▃▃°)` |  | | FRIEND | `(♥‿‿♥)` | ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true) |
+| INTENSE <!-- on_assoc : post auth, data transfer can begin --> | `(°▃▃°)` | ![Anonymous](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/ANONYMOUS.png?raw=true)  | | FRIEND | `(♥‿‿♥)` | ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true) |
 | COOL <!-- on_deauth --> | `(⌐■_■)` | ![Cool](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/COOL.png?raw=true) | | BROKEN <!-- on_reboot --> | `(☓‿‿☓)` | ![Broken](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/BROKEN.png?raw=true)  |
 | HAPPY <!-- new handshakes --> | `(•‿‿•)` |  | | DEBUG <!-- on_custom --> | `(#__#)` |  ![Debug](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/DEBUG.png?raw=true) 
 | UPLOAD [ /1/2] | <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/assets/upload-old.gif" width="60"> | <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/assets/upload-new.gif" height="64"> | | | | |
