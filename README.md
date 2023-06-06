@@ -2,7 +2,7 @@
 
 #### UPDATE!!
 
-| ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true)|  [Roodriiigooo](https://github.com/roodriiigooo) [actually implemented](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD) what I handwaved as "probably easy" and wrote an installation guide! I'll be updating the repo with .png images shortly and sending a pull request but Roodriiigooo you get the official UwU of appreciation       |
+| ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true)|  [Roodriiigooo](https://github.com/roodriiigooo) [actually implemented](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD) what I handwaved as "probably easy" and wrote an installation guide! Roodriiigooo you get the official UwU of appreciation       |
 | ------------ | ------------- |
 
 ---
