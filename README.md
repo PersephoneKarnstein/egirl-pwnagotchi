@@ -1,5 +1,12 @@
 # <img src="https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/assets/sideeye.gif?raw=true" height="48"> pwnagotchi e-girl
 
+#### UPDATE!!
+
+| ![Friend](https://github.com/PersephoneKarnstein/egirl-pwnagotchi/blob/master/faces/FRIEND.png?raw=true)|  [Roodriiigooo](https://github.com/roodriiigooo) [actually implemented](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD) what I handwaved as "probably easy" and wrote an installation guide! I'll be updating the repo with .png images shortly and sending a pull request but Roodriiigooo you get the official UwU of appreciation       |
+| ------------ | ------------- |
+
+---
+
 ### Background
 
 At time of writing, the pwnagotchi only allows single line, text-based emoji to be used as faces for its moods. While these faces can be edited (by editing [pwnagotchi/pwnagotchi/ui/faces.py](https://github.com/evilsocket/pwnagotchi/blob/decbeaccb1b3a3b4364204478c7987df0104edf1/pwnagotchi/ui/faces.py)), as written they can only be changed to different single-line emoji. The layout of the pwnagotchi's face is defined on [line 57 of pwnagotchi/pwnagotchi/ui/view.py](https://github.com/evilsocket/pwnagotchi/blob/a5d5533acf9ebf0d70b12b7631b5119aea5b7b3b/pwnagotchi/ui/view.py#L57), using the Text class defined in [pwnagotchi/pwnagotchi/ui/components.py](https://github.com/evilsocket/pwnagotchi/blob/a5d5533acf9ebf0d70b12b7631b5119aea5b7b3b/pwnagotchi/ui/components.py),
